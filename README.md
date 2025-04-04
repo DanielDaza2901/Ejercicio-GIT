@@ -1,5 +1,11 @@
 ## Ejercicio en GIT
-Crear un repositorio en github
+Este proyecto demuestra la creación de una aplicacion "Hello World" utilizando
+Spring Boot y Maven java.
+
+1. Se inicializo un nuevo proyecto Spring Boot.
+2. Se creo una clase  'HelloController' con una ruta ("/") que devuelve el mensaje "HelloWorld".
+
+
 # Integrantes
 
 - [Ivan Andres Salas Leiva]
